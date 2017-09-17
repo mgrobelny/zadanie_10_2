@@ -1,0 +1,17 @@
+body {
+	text-align: right;
+	margin-right: 50vw;
+	margin-top: 10vh;
+}
+.btn {
+	background-color: darkred;
+	color: white;
+	border: none;
+	padding: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.btn:hover, .btn:active, .btn:focus {
+	background-color: red;
+	outline: 0;
+}
